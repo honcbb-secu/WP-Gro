@@ -7,7 +7,7 @@ At the moment we're just suggesting a reference direction and no plug-ins to ass
 
 Time is not necessarily! And I'll also be labeled based on which version or new version will be modified, and if WordPress doesn't make significant changes, at least the files that have been removed can be directly overwritten.
 
-##How to use
+### How to use
 
 ```bash
 Please override directly depending on which directory the modified archive is located in
