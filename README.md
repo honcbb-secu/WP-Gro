@@ -7,12 +7,12 @@ At the moment we're just suggesting a reference direction and no plug-ins to ass
 
 Time is not necessarily! And I'll also be labeled based on which version or new version will be modified, and if WordPress doesn't make significant changes, at least the files that have been removed can be directly overwritten.
 
+can also refer to `update.log`
+
 ## Security concerns:
 
 The files are in accordance with the WordPress core file rules, and the program code does not include any "third-party programs" and "maliciously implanted code" so you can rest assured that if you are still worried, please do not use!
 
-
-can also refer to `update.log`
 
 ## Project language
 
