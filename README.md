@@ -23,7 +23,7 @@ Currently only available in international languages ( English) if you would like
 
 ## Version support
 
-`4.2.5`
+`5.2.4`
 
 
 ### How to use：
