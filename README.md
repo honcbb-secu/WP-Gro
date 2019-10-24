@@ -33,3 +33,4 @@ Please override directly depending on which directory the modified archive is lo
 ## Customized features：
 
 * Dashboard PHP Update Required Prompt (Remove) 
+* Dashboard Home Default Message (Remove)
