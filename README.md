@@ -20,7 +20,6 @@ Currently only available in international languages ( English) if you would like
 
 
 ### How to use
------------
 
 ```bash
 Please override directly depending on which directory the modified archive is located in
