@@ -13,8 +13,13 @@ can also refer to `update.log`
 
 Currently only available in international languages ( English) if you would like to assist with translation please open an Issue 
 
+## Version support
+
+`4.2.5`
+
 ### How to use
 
 ```bash
 Please override directly depending on which directory the modified archive is located in
 ```
+
