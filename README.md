@@ -1,5 +1,5 @@
 # WP-Gro
-[![Release](https://img.shields.io/github/release-pre/pbatard/rufus.svg?style=flat-square)](ht)
+[![Release](https://img.shields.io/badge/release-V1.0-green)](ht)
 
 This project is to help WordPress webmaster If you want to remove specific `"fields"` and `"projects"` or customized WordPress administrator background elements can be referenced.
 
