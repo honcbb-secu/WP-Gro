@@ -9,6 +9,9 @@ Time is not necessarily! And I'll also be labeled based on which version or new 
 
 can also refer to `update.log`
 
+##Project language
+
+Currently only available in international languages ( English) if you would like to assist with translation please open an Issue 
 
 ### How to use
 
