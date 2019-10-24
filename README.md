@@ -36,3 +36,4 @@ Please override directly depending on which directory the modified archive is lo
 
 * Dashboard PHP Update Required Prompt (Remove) 
 * Dashboard Home Default Message (Remove)
+* Site language options (Remove)
