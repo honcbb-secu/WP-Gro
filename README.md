@@ -32,4 +32,4 @@ Please override directly depending on which directory the modified archive is lo
 
 ## Customized features：
 
-* Format 
+* Dashboard PHP Update Required Prompt (Remove) 
