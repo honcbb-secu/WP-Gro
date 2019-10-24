@@ -9,7 +9,7 @@ Time is not necessarily! And I'll also be labeled based on which version or new 
 
 can also refer to `update.log`
 
-## Security concerns:
+## Security concerns
 
 The files are in accordance with the WordPress core file rules, and the program code does not include any "third-party programs" and "maliciously implanted code" so you can rest assured that if you are still worried, please do not use!
 
@@ -24,7 +24,7 @@ Currently only available in international languages ( English) if you would like
 `4.2.5`
 
 
-### How to use
+### How to use：
 
 ```bash
 Please override directly depending on which directory the modified archive is located in
